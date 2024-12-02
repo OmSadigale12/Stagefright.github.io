@@ -7,7 +7,7 @@
 <style>
 
 body{
-	Background-color:(grey);
+	Background-color:grey;
 	font-family: Ariel, Sans-serif, Tomaha, Times, Georgia;
 }
 h1{
